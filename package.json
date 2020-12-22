@@ -1,0 +1,23 @@
+{
+  "name": "phaserio",
+  "version": "1.0.0",
+  "description": "Este sera un juego realizado con phaserio y canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-adrian/phaserio.git"
+  },
+  "keywords": [
+    "canvas",
+    "phaserio"
+  ],
+  "author": "adry.dabp@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diego-adrian/phaserio/issues"
+  },
+  "homepage": "https://github.com/diego-adrian/phaserio#readme"
+}
