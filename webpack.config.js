@@ -39,6 +39,7 @@ module.exports = {
         test: /\.(wolff(2)?|eot|ttf|otf|svg)$/,
         type: "asset/inline",
       },
+      // Para estilos scss / css
       {
         test: /\.(scss|css)$/,
         use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"],
